@@ -3,5 +3,5 @@ output "url" {
 }
 
 output "space" {
-  valeu = cloudfoundry_space.space.name
+  value = cloudfoundry_space.space.name
 }

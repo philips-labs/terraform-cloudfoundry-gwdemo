@@ -7,7 +7,7 @@ resource "cloudfoundry_app" "users_api" {
   routes {
     route = cloudfoundry_route.users_api.id
   }
- 
+
   depends_on = [data.archive_file.users_api]
 }
 
