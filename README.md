@@ -4,14 +4,14 @@
 
 | Name | Version |
 |------|---------|
-| cloudfoundry | >= 0.12.4 |
+| cloudfoundry | >= 0.12.6 |
 
 ## Providers
 
 | Name | Version |
 |------|---------|
 | archive | n/a |
-| cloudfoundry | >= 0.12.4 |
+| cloudfoundry | >= 0.12.6 |
 | local | n/a |
 | random | n/a |
 
